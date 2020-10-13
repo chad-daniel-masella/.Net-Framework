@@ -1,10 +1,12 @@
 This Repo is created to learn the .Net Framework and C# from scratch
 
-**HelloWorld:**
+Folders
+
+>**HelloWorld:**
 
 Creating a simple Console Application
 	
-**Variables:**
+>**Variables:**
 
 Working with data types
 
