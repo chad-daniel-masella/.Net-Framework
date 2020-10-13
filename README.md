@@ -1,6 +1,6 @@
 # .Net Framework
 
-This Repo is created to learn the .Net Framework and C# from scratch
+This repo was created to learn the .Net Framework and C# basics from scratch
 
 ## Project Structure
 
