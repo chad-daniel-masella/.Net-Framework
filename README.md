@@ -1,13 +1,24 @@
+# .Net Framework
+
 This Repo is created to learn the .Net Framework and C# from scratch
 
-Folders
+## Project Structure
 
->**HelloWorld:**
+### HelloWorld:
+```bash
 
-Creating a simple Console Application
-	
->**Variables:**
+Creating a basic Console Application
 
-Working with data types
+Commenting using Multi-Line and Single-Line
+```
 
-Explicit and Implicit conversions
+### Variables:
+
+```bash
+Initializing variables
+
+Working with data types (string, integer and var)
+
+Explicit and Implicit type conversions
+```
+
