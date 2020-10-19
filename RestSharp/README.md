@@ -1,24 +1,18 @@
-# .Net Framework
+# RestSharp
 
-This repo was created to learn the .Net Framework and C# basics from scratch
+This sub directory branches of into the RestSharp HTTP Open source rest client
 
 ## Project Structure
 
-### HelloWorld:
+### RestsharpExample:
 ```bash
 
-Creating a basic Console Application
+A simple test written using RestSharp Library:
 
-Commenting using Multi-Line and Single-Line
-```
+Hitting a public API
 
-### Variables:
+Getting a HTTPS response
 
-```bash
-Initializing variables
-
-Working with data types (string, integer and var)
-
-Explicit and Implicit type conversions
+Validating the HTTP response
 ```
 
