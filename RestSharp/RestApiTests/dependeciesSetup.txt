@@ -1,0 +1,7 @@
+You need to install the RestSharp Package for the Project
+
+> Tools > Nuget Package Manager > Package Manager Console
+
+Enter Command:
+
+> "Install-Package RestSharp -Version 106.11.7"

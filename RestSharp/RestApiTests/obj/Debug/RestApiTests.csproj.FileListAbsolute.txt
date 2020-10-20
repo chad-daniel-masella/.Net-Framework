@@ -1,0 +1,16 @@
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\RestApiTests.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\RestApiTests.pdb
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\RestSharp.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\bin\Debug\RestSharp.xml
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\obj\Debug\RestApiTests.csprojAssemblyReference.cache
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\obj\Debug\RestApiTests.csproj.CoreCompileInputs.cache
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\obj\Debug\RestApiTests.csproj.CopyComplete
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\obj\Debug\RestApiTests.dll
+C:\Users\chadm\Desktop\RestsharpTests\RestApiTests\obj\Debug\RestApiTests.pdb
