@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\bin\Debug\netcoreapp3.1\SpellMe.exe
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\bin\Debug\netcoreapp3.1\SpellMe.deps.json
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\bin\Debug\netcoreapp3.1\SpellMe.runtimeconfig.json
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\bin\Debug\netcoreapp3.1\SpellMe.runtimeconfig.dev.json
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\bin\Debug\netcoreapp3.1\SpellMe.dll
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\bin\Debug\netcoreapp3.1\SpellMe.pdb
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\obj\Debug\netcoreapp3.1\SpellMe.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\obj\Debug\netcoreapp3.1\SpellMe.AssemblyInfo.cs
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\obj\Debug\netcoreapp3.1\SpellMe.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\obj\Debug\netcoreapp3.1\SpellMe.dll
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\obj\Debug\netcoreapp3.1\SpellMe.pdb
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\obj\Debug\netcoreapp3.1\SpellMe.genruntimeconfig.cache
+C:\Users\admin\Desktop\.Net-Framework\.NetBasics\ConsoleApp\SpellMe\obj\Debug\netcoreapp3.1\SpellMe.csprojAssemblyReference.cache
