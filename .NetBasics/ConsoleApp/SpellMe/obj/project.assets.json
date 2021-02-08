@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\.Net-Framework\\.NetBasics\\ConsoleApp\\SpellMe\\SpellMe.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\GitHubRepos\\.Net-Framework\\.NetBasics\\ConsoleApp\\SpellMe\\SpellMe.csproj",
       "projectName": "SpellMe",
-      "projectPath": "C:\\Users\\admin\\Desktop\\.Net-Framework\\.NetBasics\\ConsoleApp\\SpellMe\\SpellMe.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\GitHubRepos\\.Net-Framework\\.NetBasics\\ConsoleApp\\SpellMe\\SpellMe.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\.Net-Framework\\.NetBasics\\ConsoleApp\\SpellMe\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\GitHubRepos\\.Net-Framework\\.NetBasics\\ConsoleApp\\SpellMe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
